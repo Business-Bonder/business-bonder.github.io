@@ -2,7 +2,7 @@ title: Business Bonder
 description: A homepage for the Business Bonder application.
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
