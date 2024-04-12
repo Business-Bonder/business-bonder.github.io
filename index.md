@@ -22,7 +22,7 @@ $ meteor npm install
 ```
 
 ## Running the system
-</style> <div class="topnav"> <a class="active" href="#home">Home</a> <a href="#news">News</a> <a href="#contact">Contact</a> <a href="#about">About</a> </div> <body> <h1>Business Bonder</h1> <ul> <li><a href="https://docs.google.com/document/d/1wR9g73pu1SJRpXFbqFpmOFahrW98Q21cmLE8qssi0cE/edit?usp=sharing">Group Contract</a></li> </ul> <h2><a name="Intro">The Problem</a></h2> <p>The problem: Many UH computer science and engineering students want to learn about internship and job opportunities, but currently they must wait until a company decides to visit the campus or send out some sort of announcement. There is no efficient way for students to understand the “landscape” of internship and job opportunities that might be available in the future, so they can prepare for them now.</p> <h2><a name="Introd">The Solution</a></h2> <p></p>The Company Connector web application provides a new way for local and non-local companies who want to recruit students from UH to make their (potential) opportunities known to students. At the same time, students can create profiles on the site with their interests. The site can match students to employers and vice-versa.</p> </body> </html>
+
 Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/app/package.json):
 
 ```
