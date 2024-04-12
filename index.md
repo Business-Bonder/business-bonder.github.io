@@ -34,10 +34,29 @@ This section offers a preview of the Business Bonder interface and its functiona
 
 
 ### Login and Sign Up Page
+<div class="text-center" style="display: flex; justify-content: center;">
+  <img src="images/Login.png" style="width: 1000px; height: auto;"  alt=""/>
+</div>
 
+### User Page
+<div class="text-center" style="display: flex; justify-content: center;">
+  <img src="images/Profile.png" style="width: 1000px; height: auto;"  alt=""/>
+</div>
+
+### Company Page
+<div class="text-center" style="display: flex; justify-content: center;">
+  <img src="images/Company-Profile.png" style="width: 1000px; height: auto;"  alt=""/>
+</div>
 
 ### Admin Page 
+<div class="text-center" style="display: flex; justify-content: center;">
+  <img src="images/Admin-Profile.png" style="width: 1000px; height: auto;"  alt=""/>
+</div>
 
+### Search Page
+<div class="text-center" style="display: flex; justify-content: center;">
+  <img src="images/Search.png" style="width: 1000px; height: auto;"  alt=""/>
+</div>
 
 
 ## Team
