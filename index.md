@@ -1,3 +1,5 @@
+<h1 style="text-align: center;">Business Bonder</h1>
+
 <div class="text-center" style="display: flex; justify-content: center;">
   <img src="images/Landing.png" style="width: 1000px; height: auto;"  alt=""/>
 </div>
