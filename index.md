@@ -31,11 +31,13 @@ This project, upon completion, will offer students of the University of Hawaii a
 This section offers a preview of the Business Bonder interface and its functionalities. While the project is in its planning phase, this section showcases mockup pages intended for integration into the final application.
 
 ### Landing Page
-
+<div class="text-center" style="display: flex; justify-content: center;">
+  <img src="images/landing1.png" style="width: 1000px; height: auto;"  alt=""/>
+</div>
 
 ### Login and Sign Up Page
 <div class="text-center" style="display: flex; justify-content: center;">
-  <img src="images/Login.png" style="width: 1000px; height: auto;"  alt=""/>
+  <img src="images/Register.png" style="width: 1000px; height: auto;"  alt=""/>
 </div>
 
 ### User Page
