@@ -37,7 +37,7 @@ This section offers a preview of the Business Bonder interface and its functiona
 
 
 ## Team
-Academia Arena is designed, implemented, and maintained by:
+Business Bonder is designed, implemented, and maintained by:
 * [James Ivan Cartagena](https://jicaartagena.github.)
 * [Colby Fuke]()
 * [Brandon Nakata]()
