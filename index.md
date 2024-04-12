@@ -75,4 +75,4 @@ Visit our [GitHub Organization](https://github.com/Business-Bonder) here!
 
 Look at our goals for [Milestone 1](https://github.com/orgs/Business-Bonder/projects/1/views/3) at this project page!
 
-Look at our goals for [Milestone 2]() at this project page!
+Look at our goals for [Milestone 2](https://github.com/orgs/Business-Bonder/projects/4/views/3) at this project page!
