@@ -10,6 +10,7 @@
 
 * [Overview](#overview)
 * [Project Goal](#project-goals)
+* [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Team](#team)
 * [Links](#links)
@@ -22,6 +23,9 @@ The solution: The Company Connector web application provides a new way for local
 
 ## Project Goal
 This project, upon completion, will offer students of the University of Hawaii at Manoa a platform for accessing internship and job opportunities from local and non-local companies. The platform would connect students with companies seeking to recruit talent from the University of Manoa, offering detailed company profiles, customized matching, and a user-friendly interface.
+
+## Deployment
+[Business Bonder](http://164.92.119.232/)
 
 ## User Guide
 This section offers a preview of the Business Bonder interface and its functionalities. While the project is in its planning phase, this section showcases mockup pages intended for integration into the final application.
