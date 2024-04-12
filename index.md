@@ -1,12 +1,3 @@
-<style>
-body {
-  background-image: url('images/background.jfif');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-</style>
-
 <h1 style="text-align: center;">Business Bonder</h1>
 
 <div class="text-center" style="display: flex; justify-content: center;">
@@ -33,7 +24,7 @@ The solution: The Company Connector web application provides a new way for local
 This project, upon completion, will offer students of the University of Hawaii at Manoa a platform for accessing internship and job opportunities from local and non-local companies. The platform would connect students with companies seeking to recruit talent from the University of Manoa, offering detailed company profiles, customized matching, and a user-friendly interface.
 
 ## User Guide
-This section provides a walkthrough of Business Bonder interface and its capabilities. As we are still in the planning stages, this section currently consists of mockup pages that we plan on incorporating into our final application.
+This section offers a preview of the Business Bonder interface and its functionalities. While the project is in its planning phase, this section showcases mockup pages intended for integration into the final application.
 
 ### Landing Page
 
