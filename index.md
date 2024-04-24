@@ -63,10 +63,10 @@ This section offers a preview of the Business Bonder interface and its functiona
 
 ## Team
 Business Bonder is designed, implemented, and maintained by:
-* [James Ivan Cartagena](https://jicaartagena.github.)
-* [Colby Fuke]()
-* [Brandon Nakata]()
-* [CJ Charles James Caraang]()
+* [James Ivan Cartagena](https://jicaartagena.github.io)
+* [Colby Fuke](https://cfuke1.github.io/)
+* [Brandon Nakata](https://bhnakata.github.io/)
+* [CJ Charles James Caraang](https://cjcjsc.github.io/)
 
 ## Links
 See our [Team Contract](https://docs.google.com/document/d/1wR9g73pu1SJRpXFbqFpmOFahrW98Q21cmLE8qssi0cE/edit?usp=shar) here!
