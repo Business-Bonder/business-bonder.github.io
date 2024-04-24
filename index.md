@@ -9,7 +9,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Project Goal](#project-goals)
+* [Project Goal](#project-goal)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Team](#team)
@@ -50,16 +50,15 @@ This section offers a preview of the Business Bonder interface and its functiona
   <img src="images/Company-Profile.png" style="width: 1000px; height: auto;"  alt=""/>
 </div>
 
-### Admin Page 
-<div class="text-center" style="display: flex; justify-content: center;">
-  <img src="images/Admin-Profile.png" style="width: 1000px; height: auto;"  alt=""/>
-</div>
-
 ### Search Page
 <div class="text-center" style="display: flex; justify-content: center;">
   <img src="images/Search.png" style="width: 1000px; height: auto;"  alt=""/>
 </div>
 
+### Admin Page
+<div class="text-center" style="display: flex; justify-content: center;">
+  <img src="images/Admin-Profile.png" style="width: 1000px; height: auto;"  alt=""/>
+</div>
 
 ## Team
 Business Bonder is designed, implemented, and maintained by:
@@ -76,3 +75,5 @@ Visit our [GitHub Organization](https://github.com/Business-Bonder) here!
 Look at our goals for [Milestone 1](https://github.com/orgs/Business-Bonder/projects/1/views/3) at this project page!
 
 Look at our goals for [Milestone 2](https://github.com/orgs/Business-Bonder/projects/4/views/3) at this project page!
+
+Look at our goals for [Milestone 3](https://github.com/orgs/Business-Bonder/projects/9/views/3) at this project page!
