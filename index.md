@@ -9,7 +9,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Project Goal](#project-goal)
+* [Project Goal](#project-goal) 
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Team](#team)
@@ -25,19 +25,19 @@ The solution: The Company Connector web application provides a new way for local
 This project, upon completion, will offer students of the University of Hawaii at Manoa a platform for accessing internship and job opportunities from local and non-local companies. The platform would connect students with companies seeking to recruit talent from the University of Manoa, offering detailed company profiles, customized matching, and a user-friendly interface.
 
 ## Deployment
-[Business Bonder](http://164.92.119.232/)
+[Business Bonder](https://businessbonders.xyz/)
 
 ## User Guide
 This section offers a preview of the Business Bonder interface and its functionalities. While the project is in its planning phase, this section showcases mockup pages intended for integration into the final application.
 
 ### Landing Page
 <div class="text-center" style="display: flex; justify-content: center;">
-  <img src="images/landing1.png" style="width: 1000px; height: auto;"  alt=""/>
+  <img src="images/Landing.png" style="width: 1000px; height: auto;"  alt=""/>
 </div>
 
 ### Login and Sign Up Page
 <div class="text-center" style="display: flex; justify-content: center;">
-  <img src="images/Register.png" style="width: 1000px; height: auto;"  alt=""/>
+  <img src="images/Login.png" style="width: 1000px; height: auto;"  alt=""/>
 </div>
 
 ### User Page
@@ -46,9 +46,12 @@ This section offers a preview of the Business Bonder interface and its functiona
 </div>
 
 ### Company Page
-<div class="text-center" style="display: flex; justify-content: center;">
-  <img src="images/Company-Profile.png" style="width: 1000px; height: auto;"  alt=""/>
+<div class="text-center" style="display: flex; flex-direction: column; align-items: center;">
+  <img src="images/Company-Profile.png" style="width: 1000px; height: auto;" alt=""/>
+  <img src="images/Company.png" style="width: 1000px; height: auto;" alt=""/>
+  <img src="images/AddCompany.png" style="width: 1000px; height: auto;" alt=""/>
 </div>
+
 
 ### Search Page
 <div class="text-center" style="display: flex; justify-content: center;">
@@ -56,9 +59,12 @@ This section offers a preview of the Business Bonder interface and its functiona
 </div>
 
 ### Admin Page
-<div class="text-center" style="display: flex; justify-content: center;">
-  <img src="images/Admin-Profile.png" style="width: 1000px; height: auto;"  alt=""/>
+<div class="text-center">
+  <img src="images/Admin-Profile.png" style="width: 1000px; height: auto;" alt=""/>
+  <img src="images/Admin.png" style="width: 1000px; height: auto;" alt=""/>
+  <img src="images/AdminEdit.png" style="width: 1000px; height: auto;" alt=""/>
 </div>
+
 
 ## Team
 Business Bonder is designed, implemented, and maintained by:
